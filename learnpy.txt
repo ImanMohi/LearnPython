@@ -1,0 +1,2 @@
+In this section we are going to cover a few basic python codes starting from very basic concepts to a little advanced ones.
+Stay tuned for more . :)
